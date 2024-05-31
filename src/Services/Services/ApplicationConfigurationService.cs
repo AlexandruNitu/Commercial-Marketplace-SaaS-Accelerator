@@ -12,7 +12,6 @@ namespace Marketplace.SaaS.Accelerator.Services.Services;
 /// </summary>
 public class ApplicationConfigService
 {
-
     /// <summary>
     /// The app config repository.
     /// </summary>
